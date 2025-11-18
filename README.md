@@ -72,7 +72,7 @@ pip install pandas numpy scikit-learn jupyter
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/heart-disease-detection.git
+git clone https://github.com/Nprashanth0701/heart-disease-detection.git
 cd heart-disease-detection
 ```
 
@@ -134,10 +134,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Your Name** - [Your GitHub Profile](https://github.com/rathodakashnayak)
-
 ## 🙏 Acknowledgments
 
 - Dataset providers
@@ -146,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-If you have any questions or suggestions, please open an issue on GitHub or contact me at [rathodakashnayak45@gmail.com]
+If you have any questions or suggestions, please open an issue on GitHub or contact me at [prashanthstars50@gmail.com]
 
 ---
 
